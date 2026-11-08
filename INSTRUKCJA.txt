@@ -1,0 +1,6 @@
+NEON CITY — GitHub Actions APK
+1. W repozytorium kliknij Add file > Upload files i wybierz NEON_CITY_SOURCE.zip. Commit changes.
+2. W repozytorium kliknij Add file > Create new file. W polu nazwy wpisz .github/workflows/android-apk.yml, a do edytora wklej zawartosc android-apk.yml. Commit changes.
+3. Otworz Actions > NEON CITY - Zbuduj APK > Run workflow (albo poczekaj na automatyczny build).
+4. Po zielonym wyniku pobierz artifact NEON_CITY_ANDROID_APK; rozpakuj go i zainstaluj app-debug.apk.
+Uwaga: projekt nie zostal skompilowany ani przetestowany na telefonie.
